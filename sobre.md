@@ -1,6 +1,3 @@
-
-# MS101 - MARY ANDRADE
-
 ## Re presentación de la primera computadora Argentina y sus protagonistas. Tecnología soberana y pionera.
 
 
