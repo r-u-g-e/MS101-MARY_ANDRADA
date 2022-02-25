@@ -1,4 +1,5 @@
-## Re presentación de la primera computadora Argentina y sus protagonistas. Tecnología soberana y pionera.
+## Re presentación de la primera computadora Argentina y sus protagonistas.
+### Tecnología soberana y pionera.
 
 
 ``` 
@@ -13,6 +14,6 @@ La historia está compuesta por un crisol de experiencias y relatos enmarcados e
 
 Dentro de lo gráfico usamos los recursos visuales del “glitch”. El glitch es un conjunto de técnicas en donde el “error” es puesto en acción como mecanismo de develación de las formas en que una imagen se compone como tal. Como metodología de deconstrucción de la imagen, el glitch propone una estética que se apunta a sí misma y a sus métodos de producción. Como estética de señalamiento, busca incorporar en los discursos estéticos las realidades materiales de la construcción de signos visuales digitales.
 
-Buscamos entretejer estos sucesos históricos y darle especial relevancia a Mary Andrada usando el video como medio. Entre las técnicas usadas destacamos a los shaders, que son programas que corren en paralelo en la GPU y que permiten la generación de gráficos en tiempo real. Con estos intervenimos el material archivístico, usando Hydra, un lenguaje de programación para programación gráfica en vivo. Además usamos la herramienta CAblam para programar usando el lenguaje Español, y que se usó para generar autómatas celulares a partir de la descripción de la arquitectura de la MS101. Usamos como inspiración la cantidad de memoria disponible en la MS101 de tal forma en que la imagen generada se comprima y descomprima teniendo esa misma restricción. Para lograr esto se adaptó una técnica en donde se tiene en cuenta la memoria usada por píxel para codificar la información que se ve en la pantalla (esteganografía). Finalmente durante todo el armado se ha usado editores y varias herramientas de video que son Software Libre.
+Buscamos entretejer estos sucesos históricos y darle especial relevancia a Mary Andrada usando el video como medio.
 
 Somos siempre en relación al Otro. Entendemos que es necesario apropiarse de tecnologías foráneas y traerlas a nuestres territorios, pero podemos habitar la tecnología desde otro posicionamiento. Podemos reconocer los desarrollos propios y su valor, para allanar el terreno a desarrollos autóctonos y soberanos de la tecnología.
